@@ -1,0 +1,17 @@
+.card{
+    background: #152A46;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    color: #fff;
+}
+
+.Line{
+    background: #fff;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    color: #fff;
+}

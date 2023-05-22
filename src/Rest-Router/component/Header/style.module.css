@@ -1,0 +1,13 @@
+.Header {
+    width: 100%;
+    background-color: #2c3f59;
+    padding: 0px 20px 0px 20px;
+    color: white;
+}
+.Linked {
+    font-size: 16px;
+    color: white;
+}
+.custom-link {
+    color: red;
+  }
